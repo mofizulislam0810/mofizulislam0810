@@ -51,7 +51,7 @@ I actively contribute to open-source projects, solve coding challenges on [LeetC
 
 ## 🤝 Let’s Connect
 
-💬 I’m always excited to discuss new ideas, collaborate on interesting projects, or talk about technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rakibul-hasan-514649130/) or reach out via email at [rakib251193@gmail.com](mailto:mofizul.islam0810@gmail.com). I look forward to hearing from you!
+💬 I’m always excited to discuss new ideas, collaborate on interesting projects, or talk about technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rakibul-hasan-514649130/) or reach out via email at [mofizul.islam0810@gmail.com](mailto:mofizul.islam0810@gmail.com). I look forward to hearing from you!
 
 ---
 
