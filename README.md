@@ -11,7 +11,7 @@
 
 I'm a **Frontend Developer** from Bangladesh 🇧🇩 with over **3 years of experience** in building scalable, high-performance web applications. I specialize in **React.js**, **Next.js**, and **frontend architecture**, but I’m also diving into **Full-stack development** with **Node.js** and **Express.js**. I’m passionate about learning new technologies, solving challenging problems, and building impactful software.
 
-
+- 💼 **Frontend Developer** at **TechnoNext Software Ltd.**
 - 🌱 Exploring **backend development** and **cloud computing**.
 - 🚀 Constantly learning and growing through new projects and tech.
 - 🧩 In my free time, I contribute to **open-source**, **solve problems** on **LeetCode**, and read technical blogs.
@@ -51,7 +51,7 @@ I actively contribute to open-source projects, solve coding challenges on [LeetC
 
 ## 🤝 Let’s Connect
 
-💬 I’m always excited to discuss new ideas, collaborate on interesting projects, or talk about technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rakibul-hasan-514649130/) or reach out via email at [mofizul.islam0810@gmail.com](mailto:mofizul.islam0810@gmail.com). I look forward to hearing from you!
+💬 I’m always excited to discuss new ideas, collaborate on interesting projects, or talk about technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/md-mofizul-islam-6a4814213/)) or reach out via email at [mofizul.islam0810@gmail.com](mailto:mofizul.islam0810@gmail.com). I look forward to hearing from you!
 
 ---
 
