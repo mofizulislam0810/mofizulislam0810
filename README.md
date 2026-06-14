@@ -1,65 +1,118 @@
-# Hi, I'm Md. Mofizul Islam! 👋
+# Hi there, I'm Md. Mofizul Islam 👋
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat&logoWidth=35)](https://www.linkedin.com/in/md-mofizul-islam-6a4814213/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat&logoWidth=35)](https://github.com/mofizulislam0810)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white&style=flat&logoWidth=35)](mailto:mofizul.islam0810@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white&style=flat&logoWidth=35)](https://leetcode.com/u/mofizulislam/)
+### 🚀 Full-Stack Software Engineer | 5+ Years Experience  
+📍 Dhaka, Bangladesh  
+
+---
+
+## ⚡ Animated Intro
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+TypeScript+Expert;NestJS+%7C+Node.js+Backend+Developer;Building+Scalable+SaaS+%26+E-commerce+Platforms" />
+</p>
+
+---
+
+## 📫 Contact & Links
+
+<p align="center">
+  <a href="mailto:mofizul.islam0810@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/mofizulislam0810">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mofizulislam1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Frontend Developer** from Bangladesh 🇧🇩 with over **4 years of experience** in building scalable, high-performance web applications. I specialize in **React.js**, **Next.js**, and **frontend architecture**, but I’m also diving into **Full-stack development** with **Node.js** and **Express.js**. I’m passionate about learning new technologies, solving challenging problems, and building impactful software.
-
-- 💼 **Frontend Developer** at **TechnoNext Software Ltd.**
-- 🌱 Exploring **backend development** and **cloud computing**.
-- 🚀 Constantly learning and growing through new projects and tech.
-- 🧩 In my free time, I contribute to **open-source**, **solve problems** on **LeetCode**, and read technical blogs.
-- 💬 Ask me about **React.js**, **Next.js**, **Node.js**, or **Web Development**. Let’s connect on [LinkedIn](https://www.linkedin.com/in/md-mofizul-islam-6a4814213/) or reach out via email.
-
----
-
-## 🛠️ Languages and Tools
-
-Here are the technologies and tools I frequently work with:
-
-| **Frontend**   | **Backend**     | **Tools**         | **Databases**     |  
-|----------------|-----------------|-------------------|-------------------|  
-| ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat&logoWidth=35) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat&logoWidth=35) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat&logoWidth=35) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat&logoWidth=35) |  
-| ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat&logoWidth=35) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat&logoWidth=35) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat&logoWidth=35)  | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat&logoWidth=35)  |  
-| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat&logoWidth=35)  | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat&logoWidth=35)  | ![GitLab](https://img.shields.io/badge/-GitLab-000000?logo=gitlab&logoColor=white&style=flat&logoWidth=35)  |   |  
-| ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakraui&logoColor=white&style=flat&logoWidth=35)  | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat&logoWidth=35)  | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat&logoWidth=35)  |   |  
-| ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat&logoWidth=35)  |   | ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?logo=webstorm&logoColor=white&style=flat&logoWidth=35)  |   |  
-| ![Zustand](https://img.shields.io/badge/-Zustand-ff6e02?logo=zustand&logoColor=white&style=flat&logoWidth=35)  |   | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat&logoWidth=35)  |   |  
+- 🔭 Working as **Full-Stack Software Engineer**
+- 💡 5+ years experience building scalable SaaS & e-commerce systems  
+- ⚙️ Specialized in **React, Next.js, TypeScript, NestJS, PostgreSQL**
+- 🧠 Strong focus on system design & performance optimization
+- 🌱 Currently exploring **Cloud, DevOps & Microservices**
+- 💬 Ask me about **Web Architecture, APIs, or Scalable Frontend Systems**
 
 ---
 
-## 💡 My Work Philosophy
+## 🛠️ Tech Stack
 
-I believe in writing clean, maintainable, and efficient code while focusing on user experience and scalability. I take pride in delivering solutions that are easy to understand and easy to maintain. Collaboration is key to success, and I enjoy working with diverse teams to build impactful software. 
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Database & Cache
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📂 Open Source & Contributions
+## 📊 GitHub Stats
 
-I actively contribute to open-source projects, solve coding challenges on [LeetCode](https://leetcode.com/u/mofizulislam/), and enjoy sharing my knowledge with others. Feel free to check out my repositories for various coding projects, contributions, and learning resources.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mofizulislam0810&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mofizulislam0810&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-- 🌱 [LeetCode Solutions](https://leetcode.com/u/mofizulislam/)
-- 📂 [My GitHub Repositories](https://github.com/mofizulislam0810)
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mofizulislam0810&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💼 Experience Snapshot
+
+- 🏗 Built scalable OTA, SaaS & e-commerce systems
+- 🔐 Designed secure authentication & RBAC systems
+- ⚡ Optimized APIs serving 200+ endpoints
+- 💳 Integrated payment gateways with webhook handling
+- 🚀 Improved performance using Redis & caching strategies
 
 ---
 
 ## 🤝 Let’s Connect
 
-💬 I’m always excited to discuss new ideas, collaborate on interesting projects, or talk about technology. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/md-mofizul-islam-6a4814213/)) or reach out via email at [mofizul.islam0810@gmail.com](mailto:mofizul.islam0810@gmail.com). I look forward to hearing from you!
+<p align="center">
+  <a href="mailto:mofizul.islam0810@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge"/>
+  </a>
+  <a href="https://linkedin.com/in/mofizulislam1">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
-## 📍 Current Focus Areas
-
-- Backend development with **Node.js** and **Express.js**
-- Building scalable web applications with **React.js** and **Next.js**
-- Exploring **cloud computing** and **DevOps** for scalable deployments
-- Learning about **microservices architecture** and **CI/CD pipelines**
-
----
+<p align="center">
+  ⭐ If you like my work, consider giving a star to my repositories!
+</p>
